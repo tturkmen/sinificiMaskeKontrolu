@@ -1,0 +1,2 @@
+# sinificiMaskeKontrolu
+Derin Python
